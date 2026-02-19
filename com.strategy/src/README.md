@@ -6,4 +6,3 @@ Promotes flexibility and reduces conditional logic in the code.
 
 
 <img width="479" height="293" alt="image" src="https://github.com/user-attachments/assets/300aaab3-a1ba-435b-9db3-112f991b8611" />
-<img width="479" height="293" alt="image" src="https://github.com/user-attachments/assets/300aaab3-a1ba-435b-9db3-112f991b8611" />
