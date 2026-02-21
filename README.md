@@ -18,7 +18,7 @@ Each pattern contains:
 ## 🧠 Patterns Covered
 
 ### 🏗 Creational Patterns
-- [Singleton](https://github.com/gautamshetty93/design-patterns/tree/main/com.singleton/src)
+- [Singleton](https://github.com/gautamshetty93/design-patterns/tree/main/com.singleton/)
 - Factory
 - Abstract Factory
 - Builder
@@ -32,9 +32,9 @@ Each pattern contains:
 - Composite
 
 ### 🎭 Behavioral Patterns
-- [Strategy](https://github.com/gautamshetty93/design-patterns/tree/main/com.strategy/src)
-- [Observer](https://github.com/gautamshetty93/design-patterns/tree/main/com.observer/src)
-- [Template](https://github.com/gautamshetty93/design-patterns/tree/main/com.template/src)
+- [Strategy](https://github.com/gautamshetty93/design-patterns/tree/main/com.strategy/)
+- [Observer](https://github.com/gautamshetty93/design-patterns/tree/main/com.observer/)
+- [Template](https://github.com/gautamshetty93/design-patterns/tree/main/com.template/)
 - Iterator
 - State
 
