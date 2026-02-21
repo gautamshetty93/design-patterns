@@ -11,7 +11,7 @@ It promotes:
 
 ---
 
-## 🧠 Concept
+## Concept
 
 The template pattern consists of:
 
@@ -24,7 +24,7 @@ The template pattern consists of:
 
 ---
 
-## 🏗 Example: Beverage Preparation
+## Example: Beverage Preparation
 
 We define a fixed process for preparing beverages:
 
@@ -38,3 +38,4 @@ The structure remains the same, but brewing and condiments differ.
 ---
 
 ## 📂 Project Structure
+
