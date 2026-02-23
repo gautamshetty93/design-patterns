@@ -1,4 +1,4 @@
-package adapter.src;
+package com.adapter.src;
 
 public class WeatherAdapter implements ModernWeatherProvider {
 
