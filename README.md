@@ -36,6 +36,7 @@ Each pattern contains:
 - [Strategy](https://github.com/gautamshetty93/design-patterns/tree/main/com.strategy/)
 - [Observer](https://github.com/gautamshetty93/design-patterns/tree/main/com.observer/)
 - [Template](https://github.com/gautamshetty93/design-patterns/tree/main/com.template/)
+- [Command](https://github.com/gautamshetty93/design-patterns/tree/main/com.command)
 - Iterator
 - State
 
