@@ -22,7 +22,7 @@ Each pattern contains:
 - [Factory](https://github.com/gautamshetty93/design-patterns/tree/main/com.factory)
 - Abstract Factory
 - Builder
-- Prototype
+- [Prototype](https://github.com/gautamshetty93/design-patterns/tree/main/com.factory)
 
 ### 🧱 Structural Patterns
 - [Adapter](https://github.com/gautamshetty93/design-patterns/tree/main/com/adapter/src)
