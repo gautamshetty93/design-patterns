@@ -25,11 +25,12 @@ Each pattern contains:
 - Prototype
 
 ### 🧱 Structural Patterns
-- Adapter
+- [Adapter](https://github.com/gautamshetty93/design-patterns/tree/main/com/adapter/src)
 - Decorator
 - Proxy
 - Facade
 - Composite
+- [FLyweight](https://github.com/gautamshetty93/design-patterns/tree/main/com.flyweight)
 
 ### 🎭 Behavioral Patterns
 - [Strategy](https://github.com/gautamshetty93/design-patterns/tree/main/com.strategy/)
