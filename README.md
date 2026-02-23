@@ -26,7 +26,7 @@ Each pattern contains:
 
 ### 🧱 Structural Patterns
 - [Adapter](https://github.com/gautamshetty93/design-patterns/tree/main/com/adapter/src)
-- Decorator
+- [Decorator](https://github.com/gautamshetty93/design-patterns/tree/main/com.decorator)
 - Proxy
 - Facade
 - Composite
