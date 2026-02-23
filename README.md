@@ -19,7 +19,7 @@ Each pattern contains:
 
 ### 🏗 Creational Patterns
 - [Singleton](https://github.com/gautamshetty93/design-patterns/tree/main/com.singleton/)
-- Factory
+- [Factory](https://github.com/gautamshetty93/design-patterns/tree/main/com.factory)
 - Abstract Factory
 - Builder
 - Prototype
