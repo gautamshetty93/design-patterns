@@ -41,5 +41,4 @@ Each pattern contains:
 
 ---
 
-## 📂 Project Structure
 
