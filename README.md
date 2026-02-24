@@ -21,15 +21,14 @@ Each pattern contains:
 - [Singleton](https://github.com/gautamshetty93/design-patterns/tree/main/com.singleton/)
 - [Factory](https://github.com/gautamshetty93/design-patterns/tree/main/com.factory)
 - Abstract Factory
-- Builder
+- [Builder](https://github.com/gautamshetty93/design-patterns/tree/main/com.factory.src)
 - [Prototype](https://github.com/gautamshetty93/design-patterns/tree/main/com.factory)
 
 ### 🧱 Structural Patterns
 - [Adapter](https://github.com/gautamshetty93/design-patterns/tree/main/com/adapter/src)
 - [Decorator](https://github.com/gautamshetty93/design-patterns/tree/main/com.decorator)
 - [Proxy](https://github.com/gautamshetty93/design-patterns/tree/main/com.proxy)
-- Facade
-- Composite
+- [Facade](https://github.com/gautamshetty93/design-patterns/tree/main/com.facade)
 - [FLyweight](https://github.com/gautamshetty93/design-patterns/tree/main/com.flyweight)
 
 ### 🎭 Behavioral Patterns
@@ -37,8 +36,8 @@ Each pattern contains:
 - [Observer](https://github.com/gautamshetty93/design-patterns/tree/main/com.observer/)
 - [Template](https://github.com/gautamshetty93/design-patterns/tree/main/com.template/)
 - [Command](https://github.com/gautamshetty93/design-patterns/tree/main/com.command)
-- Iterator
-- State
+- [Iterator](https://github.com/gautamshetty93/design-patterns/tree/main/com.iterator/)
+- [State](https://github.com/gautamshetty93/design-patterns/tree/main/com.state/)
 
 ---
 
