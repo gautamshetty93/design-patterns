@@ -27,7 +27,7 @@ Each pattern contains:
 ### 🧱 Structural Patterns
 - [Adapter](https://github.com/gautamshetty93/design-patterns/tree/main/com/adapter/src)
 - [Decorator](https://github.com/gautamshetty93/design-patterns/tree/main/com.decorator)
-- Proxy
+- [Proxy](https://github.com/gautamshetty93/design-patterns/tree/main/com.proxy)
 - Facade
 - Composite
 - [FLyweight](https://github.com/gautamshetty93/design-patterns/tree/main/com.flyweight)
